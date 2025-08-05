@@ -1,5 +1,5 @@
 services:
-    cobalt:
+    cobalt-api:
         image: ghcr.io/imputnet/cobalt:11
 
         init: true
